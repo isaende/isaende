@@ -16,15 +16,34 @@ I am an Information Systems student at FIAP and passionate about technology, wit
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/789275be-1ba0-4cd4-b89b-1591c1bb56a8" />
 </a>
 
-### ♡ Languages and Tools I'm Using/Studying
+### ♡ Languages/Tools I'm Using
+ <p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Oracle-bagde?style=for-the-badge&logoColor=e0aaff&labelColor=6247aa&color=6247aa">
+<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-bagde?style=for-the-badge&logoColor=dec9e9&labelColor=a06cd5&color=a06cd5">
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-bagde?style=for-the-badge&logo=notion&logoColor=dec9e9&logoSize=auto&labelColor=9163cb&color=9163cb">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-bagde?style=for-the-badge&logo=github&logoColor=dec9e9&logoSize=auto&labelColor=815ac0&color=815ac0">
+<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-bagde?style=for-the-badge&logo=intellijidea&logoColor=dec9e9&logoSize=auto&labelColor=7251b5&color=7251b5">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-bagde?style=for-the-badge&logo=python&logoColor=e0aaff&labelColor=7b2cbf&color=7b2cbf">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-bagde?style=for-the-badge&labelColor=3c096c&color=3c096c">
+</p>
 
-<img width="50" height="50" alt="Java" src="https://github.com/user-attachments/assets/63b2c654-6a42-4ef5-8e49-473d2bf8b8d7" />
 
-<img width="50" height="50" alt="oracle" src="https://github.com/user-attachments/assets/98dfcbea-4af3-43e1-9a56-793d50c5def0" />
 
-<img width="50" height="50" alt="Python" src="https://github.com/user-attachments/assets/3b229e61-4abf-4cfd-b428-29552f1b1bf7" />
 
-<img width="50" height="50" alt="Notion" src="https://github.com/user-attachments/assets/8bcda293-2b10-438a-9b0f-b97a76faba56" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
