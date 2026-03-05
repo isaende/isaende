@@ -25,6 +25,8 @@ I am an Information Systems student at FIAP and passionate about technology, wit
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-bagde?style=for-the-badge&logo=intellijidea&logoColor=dec9e9&logoSize=auto&labelColor=7251b5&color=7251b5">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-bagde?style=for-the-badge&logo=python&logoColor=e0aaff&labelColor=7b2cbf&color=7b2cbf">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-bagde?style=for-the-badge&labelColor=3c096c&color=3c096c">
+ <img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA%20Tools-badge?style=for-the-badge&logo=nvidia&labelColor=a663cc&color=a663cc">
+
 </p>
 
 
