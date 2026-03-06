@@ -18,8 +18,8 @@ I am an Information Systems student at FIAP and passionate about technology, wit
 
 ### ♡ Languages/Tools I'm Using
  <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/oracle-badge?style=for-the-badge&labelColor=ffb3c1&color=ffb3c1">
-<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&labelColor=ff8fa3&color=ff8fa3">
+<img alt="Static Badge" src="https://img.shields.io/badge/Oracle-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff8fa3&color=ff8fa3">
+<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff758f&color=ff758f">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion-badge?style=for-the-badge&logo=notion&logoColor=fff0f3&labelColor=ff4d6d&color=ff4d6d">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=fff0f3&labelColor=c9184a&color=c9184a">
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-badge?style=for-the-badge&logo=intellijidea&logoColor=fff0f3&labelColor=a4133c&color=a4133c">
