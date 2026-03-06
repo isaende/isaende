@@ -18,15 +18,14 @@ I am an Information Systems student at FIAP and passionate about technology, wit
 
 ### ♡ Languages/Tools I'm Using
  <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/Oracle-bagde?style=for-the-badge&logoColor=e0aaff&labelColor=6247aa&color=6247aa">
-<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-bagde?style=for-the-badge&logoColor=dec9e9&labelColor=a06cd5&color=a06cd5">
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion-bagde?style=for-the-badge&logo=notion&logoColor=dec9e9&logoSize=auto&labelColor=9163cb&color=9163cb">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-bagde?style=for-the-badge&logo=github&logoColor=dec9e9&logoSize=auto&labelColor=815ac0&color=815ac0">
-<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-bagde?style=for-the-badge&logo=intellijidea&logoColor=dec9e9&logoSize=auto&labelColor=7251b5&color=7251b5">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-bagde?style=for-the-badge&logo=python&logoColor=e0aaff&labelColor=7b2cbf&color=7b2cbf">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-bagde?style=for-the-badge&labelColor=3c096c&color=3c096c">
-<img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA%20Tools-badges?style=for-the-badge&logo=nvidia&logoColor=e0aaff&labelColor=5a189a&color=5a189a">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/oracle-badge?style=for-the-badge&labelColor=ffb3c1&color=ffb3c1">
+<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&labelColor=ff8fa3&color=ff8fa3">
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-badge?style=for-the-badge&logo=notion&logoColor=fff0f3&labelColor=ff4d6d&color=ff4d6d">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=fff0f3&labelColor=c9184a&color=c9184a">
+<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-badge?style=for-the-badge&logo=intellijidea&logoColor=fff0f3&labelColor=a4133c&color=a4133c">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-badge?style=for-the-badge&logo=python&logoColor=fff0f3&labelColor=800f2f&color=800f2f">
+<img alt="Static Badge" src="https://img.shields.io/badge/java-badge?style=for-the-badge&labelColor=590d22&color=590d22">
+<img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-badge?style=for-the-badge&logo=nvidia&logoColor=fff0f3&labelColor=522e38&color=522e38">
 </p>
 
 
