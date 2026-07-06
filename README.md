@@ -1,6 +1,6 @@
 ### ♡ About me
 
-I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, networks, and security. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and networks on a daily basis. I strive to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
+I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, networks, and security. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and computer networks on a daily basis. Always wanting to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
 
 ### ♡ Contact 
 
