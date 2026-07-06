@@ -1,6 +1,6 @@
 ### ♡ About me
 
-I'm an Information Systems student, passionate about technology — especially topics like artificial intelligence, networks, and security.I am motivated by learning and applying my knowledge to projects that make a real difference in everyday life. Currently, I am an intern in Software Development focused on Artificial Intelligence and cross-platform solutions, working in the security camera domain.
+I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, networks, and security. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and networks on a daily basis. I strive to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
 
 ### ♡ Contact 
 
