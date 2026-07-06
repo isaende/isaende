@@ -13,7 +13,7 @@ I'm an Information Systems student, passionate about technology — especially t
 </a>
 
 ### ♡ Languages/Tools I'm Using
- <p>
+
   ![Static Badge](https://img.shields.io/badge/yolo-logo?style=for-the-badge&logo=yolo&labelColor=%234223d6&color=%234223d6)
   ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
@@ -22,6 +22,7 @@ I'm an Information Systems student, passionate about technology — especially t
   ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
   ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+<p>
 <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff758f&color=ff758f">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion-badge?style=for-the-badge&logo=notion&logoColor=fff0f3&labelColor=ff4d6d&color=ff4d6d">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=fff0f3&labelColor=c9184a&color=c9184a">
