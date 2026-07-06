@@ -22,14 +22,15 @@ I'm an Information Systems student, passionate about technology — especially t
   ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
   ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-<p>
-<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff758f&color=ff758f">
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion-badge?style=for-the-badge&logo=notion&logoColor=fff0f3&labelColor=ff4d6d&color=ff4d6d">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=fff0f3&labelColor=c9184a&color=c9184a">
-<img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-badge?style=for-the-badge&logo=intellijidea&logoColor=fff0f3&labelColor=a4133c&color=a4133c">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-badge?style=for-the-badge&logo=python&logoColor=fff0f3&labelColor=800f2f&color=800f2f">
-<img alt="Static Badge" src="https://img.shields.io/badge/java-badge?style=for-the-badge&labelColor=590d22&color=590d22">
-</p>
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/GitHub-logo?style=for-the-badge&logo=github&logoColor=white&labelColor=%2300004a&color=%2300004a)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
