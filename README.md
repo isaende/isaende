@@ -1,9 +1,9 @@
-### ♡ About me
-
+# ♡ About me
+---
 I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, networks, and security. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and computer networks on a daily basis. Always wanting to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
 
-### ♡ Contact 
-
+## ♡ Contact 
+---
 <a href="isa.ende07@gmail.com">
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48bafbb7-528b-41b7-9364-8beef2ccdcf1"/>
 </a>
@@ -12,8 +12,8 @@ I am an Information Systems student at FIAP, passionate about technology, especi
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b2a28c75-b53b-468e-a7f7-9bb9f09a9764" />
 </a>
 
-### ♡ Languages/Tools I'm Using
-
+## ♡ Languages/Tools I'm Using
+---
   ![Static Badge](https://img.shields.io/badge/yolo-logo?style=for-the-badge&logo=yolo&labelColor=%234223d6&color=%234223d6)
   ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
