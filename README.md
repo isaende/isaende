@@ -12,10 +12,6 @@ I'm an Information Systems student, passionate about technology — especially t
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b2a28c75-b53b-468e-a7f7-9bb9f09a9764" />
 </a>
 
-<a href="https://www.instagram.com/isaendee/">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/789275be-1ba0-4cd4-b89b-1591c1bb56a8" />
-</a>
-
 ### ♡ Languages/Tools I'm Using
  <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff8fa3&color=ff8fa3">
