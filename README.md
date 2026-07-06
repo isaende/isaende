@@ -14,14 +14,20 @@ I'm an Information Systems student, passionate about technology — especially t
 
 ### ♡ Languages/Tools I'm Using
  <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/Oracle-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff8fa3&color=ff8fa3">
+  ![Static Badge](https://img.shields.io/badge/yolo-logo?style=for-the-badge&logo=yolo&labelColor=%234223d6&color=%234223d6)
+  ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+  ![Static Badge](https://img.shields.io/badge/ONNX-logo?style=for-the-badge&logo=onnx&labelColor=%23341cc4&color=%23341cc4)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-badge?style=for-the-badge&logoColor=fff0f3&labelColor=ff758f&color=ff758f">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion-badge?style=for-the-badge&logo=notion&logoColor=fff0f3&labelColor=ff4d6d&color=ff4d6d">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=fff0f3&labelColor=c9184a&color=c9184a">
 <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-badge?style=for-the-badge&logo=intellijidea&logoColor=fff0f3&labelColor=a4133c&color=a4133c">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-badge?style=for-the-badge&logo=python&logoColor=fff0f3&labelColor=800f2f&color=800f2f">
 <img alt="Static Badge" src="https://img.shields.io/badge/java-badge?style=for-the-badge&labelColor=590d22&color=590d22">
-<img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-badge?style=for-the-badge&logo=nvidia&logoColor=fff0f3&labelColor=522e38&color=522e38">
 </p>
 
 
