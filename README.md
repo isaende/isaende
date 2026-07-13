@@ -1,5 +1,5 @@
 # ♡ About me
-I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, networks, and security. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and computer networks on a daily basis. Always wanting to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
+I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, UX/UI Design, and Front End. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and computer networks on a daily basis. Always wanting to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
 
 ## ♡ Contact 
 <a href="isa.ende07@gmail.com">
@@ -11,14 +11,13 @@ I am an Information Systems student at FIAP, passionate about technology, especi
 </a>
 
 ## ♡ Languages/Tools I'm Using
-  ![Static Badge](https://img.shields.io/badge/yolo-logo?style=for-the-badge&logo=yolo&labelColor=%234223d6&color=%234223d6)
-  ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-  ![Static Badge](https://img.shields.io/badge/ONNX-logo?style=for-the-badge&logo=onnx&labelColor=%23341cc4&color=%23341cc4)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-  ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
