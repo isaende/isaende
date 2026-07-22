@@ -1,5 +1,7 @@
-# ♡ About me
-I am an Information Systems student at FIAP, passionate about technology, especially topics like artificial intelligence, UX/UI Design, and Front End. I currently work at a company focused on analytical software for object detection, where I apply concepts related to programming, computer vision, and computer networks on a daily basis. Always wanting to learn new things in the tech field, apply my knowledge, and continually strengthen teamwork.
+<picture>
+ <sourcemedia="(prefers-color-scheme: dark)"srcset="./assets/dark/header-dark.svg"/>
+ <imgsrc="./assets/header-light.svg"width="100%"alt="about me presentation"/>
+</picture>
 
 ## ♡ Contact 
 <a href="isa.ende07@gmail.com">
