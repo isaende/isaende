@@ -10,7 +10,7 @@
   <img
     src="./assets/header-light.svg"
     width="100%"
-    alt="Apresentação de Isabella Monteiro"
+    alt="about me section"
   >
 </picture>
 
