@@ -1,6 +1,17 @@
 <picture>
- <sourcemedia="(prefers-color-scheme: dark)"srcset="./assets/dark/header-dark.svg"/>
- <imgsrc="./assets/header-light.svg"width="100%"alt="about me presentation"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/dark/header-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/header-light.svg"
+  >
+  <img
+    src="./assets/header-light.svg"
+    width="100%"
+    alt="Apresentação de Isabella Monteiro"
+  >
 </picture>
 
 ## ♡ Contact 
