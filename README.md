@@ -24,8 +24,6 @@
     >
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/isabella-monteiro-bb0371302/">
     <img
       width="50"
