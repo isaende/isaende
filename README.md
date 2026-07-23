@@ -17,8 +17,8 @@
 <p align="center">
   <a href="mailto:isa.ende07@gmail.com">
     <img
-      width="50"
-      height="50"
+      width="30"
+      height="30"
       alt="E-mail"
       src="./assets/images/e-mail.png"
     >
@@ -26,8 +26,8 @@
 
   <a href="https://www.linkedin.com/in/isabella-monteiro-bb0371302/">
     <img
-      width="50"
-      height="50"
+      width="30"
+      height="30"
       alt="LinkedIn"
       src="./assets/images/linkedin.png"
     >
